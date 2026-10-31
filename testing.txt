@@ -1,0 +1,30 @@
+**Project Idea: PathFinder AI**
+
+The idea is to build an AI-powered platform that helps Nigerian graduates and young professionals discover opportunities that match their profiles, understand their eligibility, and figure out how to become stronger candidates.
+
+The problem is that many people want to access fellowships, scholarships, internships, funded training programmes and leadership opportunities, but they either don't know where to find them, struggle to determine which ones they qualify for, or don't know what steps to take to improve their chances.
+
+**How PathFinder AI would work:**
+
+1. Users create a profile with their education, skills, experience and career goals.
+
+2. The platform matches them with relevant opportunities based on their profiles.
+
+3. It explains the eligibility requirements and highlights gaps they need to address.
+
+4. It generates a personalised action plan to help them prepare and apply.
+
+5. It provides links to official opportunity pages so users can verify details and apply.
+
+**What makes it interesting:** Rather than just being another website listing opportunities, PathFinder would help users move from discovering opportunities to actually preparing for and pursuing them.
+
+For our MVP, we could start with a small, verified database of opportunities, a simple user profile, AI-powered recommendations and a personalised readiness checklist. We wouldn't need to build a complicated AI model from scratch.
+
+I think this could be a practical project that combines AI, problem-solving and real-world impact, with room to grow into something bigger if we validate the need.
+
+**What do you guys think?** I'd like us to brainstorm the idea, identify what would make it different from existing platforms, and see how we can divide the work between the technical and non-technical members of the team.
+
+
+
+
+This is the project our tutor later finalise and approved.
