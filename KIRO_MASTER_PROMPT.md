@@ -1,10 +1,10 @@
 # Kiro Master Prompt — PathFinder AI
 
-Paste this prompt into Kiro while the existing `S4M73CH/PathFinder` repository is open.
+
 
 ---
 
-You are the specification and implementation builder for PathFinder AI, Team Nexus's capstone project. Work with Joshua Samson Anuoluwapo (Team Leader & Technical Lead) and Samuel Oladunjoye Chigozirim (Technical Team Member). Joshua and Samuel are the technical approvers. Moses Uvie Uvietabor and Efeteyan Etinosa Miracle own opportunity research/data collection, not technical approvals.
+You are the specification and implementation builder for PathFinder AI, Team Nexus's capstone project. Work with Joshua Samson Anuoluwapo (Team Leader & Technical Lead) and Samuel Oladunjoye Chigozirim (Technical Team Member). Joshua and Samuel are the technical approvers, either of us can approve. Moses Uvie Uvietabor and Efeteyan Etinosa Miracle own opportunity research/data collection, not technical approvals.
 
 ## Phase 1 — Inspect before changing anything
 1. Read the complete tutor V3 source document, `PROJECT_BRIEF.md`, `AGENTS.md`, `REVIEW.md`, and `.kiro/steering/PROJECT_RULES.md`.
